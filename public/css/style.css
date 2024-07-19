@@ -95,7 +95,7 @@ body{
     opacity: 0;
 }
 
-.card-img-overlay :hover{
+.card-img-overlay:hover{
     opacity: 0.2;
     background-color: white;
 }
